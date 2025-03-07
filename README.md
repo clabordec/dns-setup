@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/8Ylf9gA" alt="Domain Name System"/>
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/fd7889ae-436c-44a8-a9ce-b9c5c49ba8e5" />
 </p>
 
 <h1>DNS Practice & Setup</h1>
