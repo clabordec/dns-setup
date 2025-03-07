@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://imgur.com/a/8Ylf9gA" alt="Domain Name System"/>
 </p>
 
 <h1>DNS Practice & Setup</h1>
