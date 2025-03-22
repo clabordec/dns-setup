@@ -24,6 +24,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 - Ubuntu Server 20.04
 
 <h2>List of Prerequisites</h2>
+
 - Created Resource Group
 - Created a Virtual Network
 - Created a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
