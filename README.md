@@ -23,6 +23,22 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
+<h2>List of Prerequisites</h2>
+- Created Resource Group
+- Created a Virtual Network
+- Created a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
+    - Username: adminuser
+    - Password: AdminSecurePassword123!!!
+- Created a CLient VM with the Windows 10 Pro OS name `client-1`
+    - Username: labuser
+    - Password: SecurePassword123!!!
+- Assigned `client-1` DNS settings to match the private IP address from `dc-1`
+- Install Active Directory
+- Create a Domain Admin user within the domain
+- Join Client-1 to your domain `mydomain.com`
+- Setup Remote Desktop for non-administrative users on Client-1
+- Create 1000 additional users and attempt to log into client-1 with one or more of the users
+
 <h2>High-Level Steps</h2>
 
 - Step 1
