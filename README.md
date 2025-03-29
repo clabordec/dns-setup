@@ -13,7 +13,7 @@ In this project, we observe various network traffic to and from Azure Virtual Ma
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Various Command-Line Tools for DNS Troubleshooting
 
 <h2>Operating Systems Used </h2>
